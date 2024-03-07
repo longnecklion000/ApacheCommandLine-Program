@@ -41,6 +41,10 @@ Product Support and Contacts:
 * https://github.com/longnecklion000
 * https://github.com/cupboardmanufacturer
 * https://github.com/sbx7
+Discord:
+* Azeem Discord user ID: 975630890904485888
+* Emin discord user ID: 722252191951355905
+* Tucker discord user ID: 601926061374308352
 ----------------------------------
 Product version:
 ApacheCommand Version </1.22/>
