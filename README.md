@@ -6,7 +6,7 @@ there is also a easter egg hidden in the code, see if you can find it.
 
 Azeem sends his regards.
 
-(if you want to wrok on this project with us contact our hiring agents on discord. hiring agents: azeem, emin, tucker)
+(if you want to work on this project with us contact our hiring agents on discord. hiring agents: azeem, emin, tucker)
 
 ==================================
           PRODUCT INFO
